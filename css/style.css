@@ -11,6 +11,7 @@ body {
    padding-right: 15px;
    max-width: 1170px;
    margin: 0 auto;
+   position: relative;
 }
 
 .header__inner {
@@ -75,6 +76,38 @@ nav {
    background-size: cover;
    background-position: center center;
    color: #fff;
+   padding-top: 260px;
+   padding-bottom: 285px;
+}
+
+.title {
+   font-size: 50px;
+   margin-bottom: 23px;
+}
+
+.description {
+   font-size: 25px;
+   line-height: 30px;
+   max-width: 570px;
+   font-family: 'Roboto', sans-serif;
+   margin-bottom: 24px;
+}
+
+.btn {
+   display: inline-block;
+   color: #fff;
+   text-decoration: none;
+   font-size: 20px;
+   text-transform: uppercase;
+   font-weight: 700;
+   border: 2px solid #fff;
+   padding: 16px 32px;
+}
+
+.pizza {
+   position: absolute;
+   right: 0;
+   top: -230px;
 }
 
 .page {}
