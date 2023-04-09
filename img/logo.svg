@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="175" height="51" viewBox="0 0 175 51">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 70px;
+        fill: #ea2229;
+        font-family: "Gill Sans MT";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Pizza" class="cls-1" transform="translate(-6.041 49.962) scale(1.038 1.038)">Pizza</text>
+</svg>
